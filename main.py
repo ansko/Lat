@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-#############################
+#################################
 #
-# main functions in this file
+# main functions are in this file
 #
 
 import copy
