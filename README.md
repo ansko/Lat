@@ -1,2 +1,2 @@
 # Lat
-simple tools to analyze results ov LAMMPS calculations for my system
+simple tools to analyze results of LAMMPS calculations for my system
